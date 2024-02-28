@@ -25,7 +25,7 @@ ejecutar contenedor de docker
 docker-compose up
 ```
 
-una vez ejecutuado el contenedor la api correrá en el puerto `localhost:3000`
+una vez ejecutado el contenedor la api correrá en el puerto `localhost:3000`
 
 ## 🛸 API
 
