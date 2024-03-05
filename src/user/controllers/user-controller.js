@@ -1,4 +1,4 @@
-import { encrypt } from '../../utils/encrypt'
+import { encrypt } from '../../utils/encrypt.js'
 
 export class UserController {
   constructor ({ userModel }) {
